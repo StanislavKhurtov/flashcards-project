@@ -1,9 +1,5 @@
 # [**Flash Cards**](https://flashcards-project-kappa.vercel.app/)
 
-Task Assistance is an intuitive and powerful application designed specifically to make organising and completing tasks
-easier. Whether you are a busy professional, a student or just a planning enthusiast, our app will help you manage your
-tasks efficiently and achieve your goals.
-
 <br>
 
 <img src="./src/assets/image/image2.png" alt="image"/>
