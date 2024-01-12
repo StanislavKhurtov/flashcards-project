@@ -6,7 +6,7 @@ tasks efficiently and achieve your goals.
 
 <br>
 
-<img src="./src/assets/img/image2.png" alt="image"/>
+<img src="./src/assets/image/image2.png" alt="image"/>
 
 ## Key Skills:
 
@@ -57,7 +57,7 @@ tasks efficiently and achieve your goals.
 
 ## Utilization
 
-### [**Task Assistant**](https://task-assistant-ver-ii.vercel.app/)
+### [**Task Assistant**](https://flashcards-project-kappa.vercel.app/)
 
 ## Contribution to the project
 
