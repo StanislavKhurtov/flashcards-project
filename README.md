@@ -1,27 +1,73 @@
-# React + TypeScript + Vite
+# [**Flash Cards**](https://flashcards-project-kappa.vercel.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Task Assistance is an intuitive and powerful application designed specifically to make organising and completing tasks
+easier. Whether you are a busy professional, a student or just a planning enthusiast, our app will help you manage your
+tasks efficiently and achieve your goals.
 
-Currently, two official plugins are available:
+<br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img src="./src/assets/img/image2.png" alt="image"/>
 
-## Expanding the ESLint configuration
+## Key Skills:
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- Welcome to our Flash Cards project, an innovative card-based learning application. Our development team has focused on
+  creating a powerful and easy to use tool that will help you memorise information effectively and improve your learning
+  efficiency.
 
-- Configure the top-level `parserOptions` property like this:
+- One of the key technologies we used in the project is RTK Query. This library allows us to communicate with the server
+  easily and efficiently, ensuring the application runs reliably and smoothly. RTK Query makes it easy to create API
+  requests, manage data caching and update the application state, making development more efficient and convenient.
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+- We also chose React, one of the most popular libraries for user interface development. React provides easy and
+  efficient
+  component creation, allowing us to create dynamic and responsive interfaces for our application. With its virtual DOM,
+  React provides fast rendering of components and improves the performance of the application.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- We used TypeScript to type our code. TypeScript adds static typing to JavaScript, which prevents many bugs early in
+  development. With TypeScript, we can greatly improve the reliability and maintainability of our code, as well as
+  improve
+  the development process as a team.
+
+- To manage forms in our application, we have applied React Hook Form. This library provides a simple and easy-to-use
+  API for working with forms, allowing us to manage form state, input validation and data submission. React Hook Form
+  helps us create interactive forms with minimal code and improves the user experience.
+
+- We are proud of the results of our Flash Cards project and believe it is a powerful learning tool. Our development
+  team
+  has put in all their efforts to create an intuitive and effective product using RTK Query, React, TypeScript and React
+  Hook Form technologies. We hope this app will help you reach new levels of knowledge and achievement!
+
+## Technologies
+
+- TypeScript
+- React
+- RTK Query
+- React Hook Form 
+- SCSS
+- Vite
+
+## Installation and launch of the project
+
+- Clone the repository to your local computer.
+- Install depending on the command pnpm install.
+- Start the project by running pnpm dev.
+- Open your web browser and check the address http://localhost:3000.
+
+<br>
+
+## Utilization
+
+### [**Task Assistant**](https://task-assistant-ver-ii.vercel.app/)
+
+## Contribution to the project
+
+We welcome input from the community and would be happy to accept your suggestions for improving the project. If you have
+any ideas, bug fixes or new features, please create a pull request or let us know.
+
+## Contacts
+
+If you have any questions or require additional information, please contact us using the following contact information:
+
+Email: [skhurtov.work@yandex.ru](skhurtov.work@yandex.ru)
+
+Thank you for your interest in our project!
