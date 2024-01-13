@@ -54,6 +54,18 @@ tasks efficiently and achieve your goals.
 - Open your web browser and check the address http://localhost:3000.
 
 <br>
+<br>
+
+### You can register and view all project features, or
+### Use your general test account credentials to sign in:
+
+<br>
+
+##### Email: testFlashCards@yandex.ru
+
+##### Password: free1111111
+
+<br>
 
 ## Utilization
 
