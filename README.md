@@ -55,11 +55,11 @@
 ### You can register and view all project features, or
 ### Use your general test account credentials to sign in:
 
-<br>
+<hr>
 
-##### Email: testFlashCards@yandex.ru
+ - Email: testFlashCards@yandex.ru
 
-##### Password: free1111111
+ - Password: free1111111
 
 <br>
 
